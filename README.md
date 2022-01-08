@@ -5,3 +5,10 @@ Nasa provieds a free public api key to explore their api. This key has limited r
 Key: "DEMO_KEY"
 
 NASA API documentation: https://api.nasa.gov/
+
+Exported functions:
+'Set-Wallpaper'
+'Invoke-AESEncryption'
+'Invoke-NasaApiRequest'
+'Get-NasaApod'
+
